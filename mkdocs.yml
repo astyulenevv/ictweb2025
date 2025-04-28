@@ -1,0 +1,16 @@
+site_name: дока
+site_description: дока
+site_author: Тюленев Алексей
+
+nav:
+  - Home: index.md
+  - lr1: lr1/index.md
+  - pr1: pr1/index.md
+  - pr2: pr2/index.md
+  - pr3: pr3/index.md
+
+theme:
+  name: readthedocs
+
+plugins:
+  - search
